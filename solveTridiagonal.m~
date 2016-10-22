@@ -1,0 +1,9 @@
+function [ x ] = solveTridiagonal( tridiagonal, n )
+%solveTridiagonal solves the given n x n tridiagonal matrix
+    x = zeros(n);
+    %perform forward sleep
+    for i = 1 : n
+        
+    end
+end
+
